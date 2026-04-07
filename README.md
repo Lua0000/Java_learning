@@ -5,3 +5,40 @@
 
 
 </div>
+
+## 📖 About the Repository
+
+This repository aims to document my progress while learning the **Java** programming language, based on the book *Java: How to Program*.
+
+Here you will find:
+
+* ✔️ Exercise solutions
+* ✔️ Practice of fundamental concepts
+* ✔️ Chapter-based organization
+* ✔️ Well-commented code for learning
+
+---
+
+## 🎯 Objective
+
+The goal is to learn Java syntax, object-oriented programming, and core development concepts, demonstrating my progress through structured exercise solving.
+
+---
+
+## 🚀 Progress
+
+* 📂 Chapter 1 — Finished
+* 📂 Chapter 2 — ⬜ Not started
+* 📂 Chapter 3 — ⬜ Not started
+* 📂 Chapter 4 — ⬜ Not started
+* 📂 Chapter 5 — ⬜ Not started
+
+---
+
+## 💻 Technologies
+
+* ☕ Java
+* 🛠️ IntelliJ IDEA 
+* 📦 JDK (Java Development Kit)
+
+---
