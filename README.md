@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ Linguagem Java — Paul Deitel, Harvey Deitel 
+# ☕ JAVA — Paul Deitel, Harvey Deitel 
 <img src="https://github.com/user-attachments/assets/6d81bbf8-6b63-45d9-a50a-d0a86403e5be" width="250">
 
 
@@ -27,7 +27,7 @@ The goal is to learn Java syntax, object-oriented programming, and core developm
 
 ## 🚀 Progress
 
-* 📂 Chapter 1 — Finished
+* 📂 Chapter 1 — ✅ Finished
 * 📂 Chapter 2 — ⬜ Not started
 * 📂 Chapter 3 — ⬜ Not started
 * 📂 Chapter 4 — ⬜ Not started
